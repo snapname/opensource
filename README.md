@@ -1,2 +1,2 @@
 # opensource
-opensource object
+opensource project
